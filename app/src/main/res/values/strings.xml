@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">screenTest</string>
+
+    <string name="title_section1">Home Screen</string>
+    <string name="title_section2">Current Challenge</string>
+    <string name="title_section3">History</string>
+    <string name="title_section4">Complete list</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
